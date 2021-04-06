@@ -3,6 +3,8 @@
 ## Folder Alignment
 ```
 pip install folder 
+
+https://pypi.org/project/folder/
 ```
 ## Structure of alignment
 ```
