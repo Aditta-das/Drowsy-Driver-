@@ -19,7 +19,7 @@ YOURPROJECTNAME
 	|___ README.md
 ```
 
-# Detection Workfolw
+# Detection Workflow
 ![arch2](https://user-images.githubusercontent.com/60479691/113746193-d9e34100-9727-11eb-98f2-900e6259c3cf.JPG)
 
 # Implementation Workflow
