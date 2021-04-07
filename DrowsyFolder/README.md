@@ -21,6 +21,9 @@ YOURPROJECTNAME
 	|___ README.md
 ```
 
+![Screenshot (79)](https://user-images.githubusercontent.com/60479691/113886007-2723e900-97e2-11eb-97d0-16cb525c99a2.png)
+
+
 # Detection Workflow
 ![arch2](https://user-images.githubusercontent.com/60479691/113746193-d9e34100-9727-11eb-98f2-900e6259c3cf.JPG)
 
