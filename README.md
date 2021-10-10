@@ -1,5 +1,6 @@
 # Drowsy-Driver
 
+Project Details: https://docs.google.com/document/d/1k7KUnwT2AEgIlWX-PxnND8tDIPZVfyUCheQQW12Q87g/edit?usp=sharing
 
 ![Screenshot (3)](https://user-images.githubusercontent.com/60479691/96096820-114c0000-0ef2-11eb-8e0b-fa91b67bcfce.png)
 ![Screenshot (4)](https://user-images.githubusercontent.com/60479691/96096863-1e68ef00-0ef2-11eb-90d4-e172cfaf808c.png)
